@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">TipTrips</string>
+
+    <string name="kind1">Getting started</string>
+    <string name="kind2">Tips for battling gyms in Pokemon GO</string>
+    <string name="kind3">Tips on how gyms work</string>
+    <string name="kind4">Tips for defending a gym</string>
+    <string name="kind5">Tips for finding Pokémon in Pokémon Go</string>
+    <string name="kind6">Tips for catching Pokémon in Pokémon GO</string>
+    <string name="kind7">Tips for healing Pokémon in Pokémon GO</string>
+    <string name="kind8">Tips for levelling-up Pokémon in Pokémon GO</string>
+    <string name="kind9">Tips for eggs in Pokémon GO</string>
+
+    <string name="tip1">Battery saver</string>
+    <string name="tip2">Charge up</string>
+    <string name="tip3">Lay low when your battery is nearly dead</string>
+    <string name="tip4">How to get Pikachu as you starter Pokémon</string>
+    <string name="tip5">Take advantage of every Pokéstop</string>
+    <string name="tip6">Head for popular Pokéstops</string>
+    <string name="tip7">Choose a unique nickname for each Pokémon</string>
+    <string name="tip8">Curse words are fine, for now...</string>
+    <string name="tip9">Get to know your Pokémon silhouettes</string>
+    <string name="tip10">Trade in Pokémon with lower CP for candy</string>
+
+    <string name="tip11"> Gyms don\'t become available until level 5</string>
+    <string name="tip12">Don\'t go in expecting a traditional gym battle</string>
+    <string name="tip13">Try your best to dodge incoming attacks</string>
+    <string name="tip14">Use your special attack at your own risk</string>
+    <string name="tip15">Check yourself before you wreck yourself</string>
+    <string name="tip16">Team up for a takedown</string>
+    <string name="tip17">Reaping the rewards of your win</string>
+    <string name="tip18">Is there any difference between the Pokémon Go teams?</string>
+    <string name="tip19">Is there any difference between the Pokémon Go teams?</string>
+    <string name="tip20">Is there any difference between the Pokémon Go teams?</string>
+    <string name="tip21">Is there any difference between the Pokémon Go teams?</string>
+    <string name="tip22">Is there any difference between the Pokémon Go teams?</string>
+</resources>

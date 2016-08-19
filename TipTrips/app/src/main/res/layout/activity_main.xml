@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.minhtien.tiptrips.MainActivity">
+    <TextView
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:id="@+id/txt_name_categories"
+        android:text="Kind"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp" />
+    <android.support.v4.view.ViewPager
+        android:layout_weight="8"
+        android:id="@+id/vp_list_tip_tricks"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+    </android.support.v4.view.ViewPager>
+    <com.shizhefei.view.indicator.ScrollIndicatorView
+        android:id="@+id/spring_indicator"
+        android:layout_width="match_parent"
+        android:background="#00226c"
+        android:layout_weight="1"
+        android:layout_height="0dp"/>
+</LinearLayout>
